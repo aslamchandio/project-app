@@ -1,6 +1,6 @@
-  =>  Template Name    : CONSULT - Consultancy Website Template
+  =>  Template Name    : FarmFresh - Organic Farm Website Template
 
-  =>  Template Link    : https://htmlcodex.com/consultancy-website-template-free
+  =>  Template Link    : https://htmlcodex.com/organic-farm-website-template
 
   =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
 
